@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anu Benny</h1>
+<h3 align='center'>Data Analytics Engineer | AI Enthusiast | Turning Data into Insights 📊</h3>
 
-<!--
-**AnuBenny000/AnuBenny000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently working on Data Analytics, Machine Learning, and AI-powered projects  
 
-Here are some ideas to get you started:
+💻 Skilled in Python, SQL, Excel, Power BI, and Tableau  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Passionate about Data Cleaning, Visualization, Dashboard Creation, and Predictive Analysis  
+
+📫 Reach me at: anubenny2003@gmail.com
+
+🔗 Connect with me: [LinkedIn] (https://www.linkedin.com/in/anu-benny03/)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,tensorflow" />
+</p>
+Excel | Power BI | Tableau | Pandas | NumPy | Data Visualization
